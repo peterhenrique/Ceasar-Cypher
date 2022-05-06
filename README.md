@@ -1,0 +1,1 @@
+In this I'll be experimenting with Ruby, I'll be doing a basic Ceasar Cypher, one of the oldest cripting codes known to man.
